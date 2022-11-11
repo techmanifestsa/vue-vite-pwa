@@ -1,2 +1,2 @@
-# vue-vite-pwa
-Vue Vitw PWA
+# Vue Vite Progressive Web App
+Vue Vite PWA
